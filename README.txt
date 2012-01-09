@@ -1,1 +1,1 @@
-test zing 1
+test zing 1 sever
